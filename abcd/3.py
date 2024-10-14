@@ -4,7 +4,7 @@ b = 58.25
 print(type(b))
 c = "Amol"
 print(type(c))
-d = [1,2,3]
+d = [1,2,3,4]
 print(type(d))
 m = 2e3
 print(m)
