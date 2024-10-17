@@ -1,3 +1,3 @@
 name = 'Beautiful'
+print('name')
 del name
-print(name)
